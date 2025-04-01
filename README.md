@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rodri9o
-- 👀 I’m interested in IaC, Terraform, Linux
+- 👀 I’m interested in IaC, Terraform, Linux, Ansible
 - 🕺 🚴 Dancing, cylcing, meeting people are things I enjoy
 - 👪 Family's _numero uno_ 
 - 📫 private
